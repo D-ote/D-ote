@@ -1,5 +1,5 @@
 
-💻 Data Scientist<br>🧑‍🎓 Master's in Artificial Intelligence and Data Science<br>🛠️ I build scalable models<br>✍️ Write technical blogs on Medium<br>⚡ I enjoy: reading, drawing, and running :)<br>
+💻 Data Scientist<br>🧑‍🎓 Master's in Artificial Intelligence and Data Science<br>🛠️ I build scalable models<br>✍️ I write on Medium<br>⚡ I enjoy: reading, drawing, and running :)<br>
 
 
 ### 🌐 Socials:
